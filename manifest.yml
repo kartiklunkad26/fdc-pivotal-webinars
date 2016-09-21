@@ -1,0 +1,6 @@
+---
+applications:
+- name: fdc-pivotal-webinars 
+  memory: 512M
+  host: fdc-pivotal-webinars 
+  path: target/fdc-pivotal-webinars-0.0.1-SNAPSHOT.jar
